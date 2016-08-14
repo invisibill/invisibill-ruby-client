@@ -12,6 +12,7 @@ require 'invisibill-ruby-client/models/invoice'
 require 'invisibill-ruby-client/models/location'
 require 'invisibill-ruby-client/models/resource'
 require 'invisibill-ruby-client/models/timecard'
+require 'invisibill-ruby-client/models/token'
 
 require 'pry'
 
